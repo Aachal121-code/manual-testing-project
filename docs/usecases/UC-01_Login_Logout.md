@@ -1,9 +1,9 @@
 #  Use Case : UC-01_Login/Logout
 
 **Use Case ID:** UC-01  
-**Name :**Login/Logout
-**Actor :**Customer
-**Precondition :** Internet available, User Account exists (username/password)
+**Name:** Login and Logout  
+**Actor:** Registered User (Customer)  
+**Preconditions:** Internet available,User account exists (username/password). 
 **Basic Flow :**
 1. User opens https://www.saucedemo.com 
 2. User enter username and password
