@@ -6,6 +6,8 @@
 1. Open https://www.saucedemo.com
 2. Enter username `wrong_user` and password `wrong_pass`
 3. Click Login
+
+
 **Expected Result:** Show specific error: "Username and password do not match any user in this service".    
 **Actual Result:** Page reloads but dosen't showing clear error message (UX unclear).    
 **Severity:** Minor (UI/UX issue)     
