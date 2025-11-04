@@ -1,11 +1,10 @@
 # TC-004 - Product Listing visible
 
-**ID:** TC-004  
-**Title:** Products Name, Price and image visible  
+**ID:** TC-004   
+**Title:** Products Name, Price and image visible    
 **Precondition:**  
 - User account exists and successfully sign in  
-- Application server is up and running.  
-
+- Application server is up and running.   
 **Steps:**  
 1. Open "https://www.saucedemo.com"  
 2. sign in with valid credentials  
@@ -19,5 +18,5 @@
 - Inventory page load  
 - Products are visible with `Name`, `Price` and `Image`  
 
-**Status:** Pass  
+**Status:** Pass   
 **Evidence:** evidence/screenshots/TC-004-pass.png
