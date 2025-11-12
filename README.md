@@ -100,11 +100,36 @@ Summarizes:
 
 The following items were created in Jira:
 
-- Epics (high-level modules)
-- User Stories (features under each module)
-- Tasks (documentation, execution, reporting)
-- Subtasks (detailed work units)
-- Bugs (with proper fields and attachments)
+- Epics (Test plan objective)
+- Stories (Usecases)
+- Tasks (Testcases)
+- Bugs (bug report)
+
+---
+
+## Jira Project Evidence
+
+Below are the screenshots showing project tracking in Jira:
+
+1. **Backlog View**
+   - ![Backlog1](evidence/JIRA_screenshots/backlog1.png)
+   - ![Backlog2](evidence/JIRA_screenshots/backlog2.png)
+
+2. **Board view**
+   - ![board_view1](evidence/JIRA_screenshots/board_view1.png)
+   - ![board_view2](evidence/JIRA_screenshots/board_view2.png)
+
+3. **sprint view**
+   - ![Sprint1_1](evidence/JIRA_screenshots/Sprint1_1.png)
+   - ![Sprint1_2](evidence/JIRA_screenshots/Sprint1_2.png)
+
+4. **sprint completed view**
+   - ![Sprint1_completed1](evidence/JIRA_screenshots/Sprint1_completed1)
+   - ![Sprint1_completed2](evidence/JIRA_screenshots/Sprint1_completed2)
+
+3. **summary view**
+   - ![summary1](evidence/JIRA_screenshots/summary1.png)
+   - ![summary2](evidence/JIRA_screenshots/summary2.png)
 
 ---
 
@@ -121,7 +146,7 @@ QA-Saucedemo-Project/
 |
 ├── evidence/
 |   ├── screenshots/
-│   ├── JIRAscreenshots
+│   ├── JIRAscreenshots/
 |
 ├── TestSummary/
 ├── TestCases/
