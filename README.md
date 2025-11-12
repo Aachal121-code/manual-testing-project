@@ -112,8 +112,8 @@ The following items were created in Jira:
 Below are the screenshots showing project tracking in Jira:
 
 1. **Backlog View**
-   - ![Backlog1](evidence/JIRA_screenshots/backlog1.png)
-   - ![Backlog2](evidence/JIRA_screenshots/backlog2.png)
+   - ![Backlog1](evidence/JIRA_screenshots/Backlog1.png)
+   - ![Backlog2](evidence/JIRA_screenshots/Backlog2.png)
 
 2. **Board view**
    - ![board_view1](evidence/JIRA_screenshots/board_view1.png)
@@ -124,8 +124,8 @@ Below are the screenshots showing project tracking in Jira:
    - ![Sprint1_2](evidence/JIRA_screenshots/Sprint1_2.png)
 
 4. **sprint completed view**
-   - ![Sprint1_completed1](evidence/JIRA_screenshots/Sprint1_completed1)
-   - ![Sprint1_completed2](evidence/JIRA_screenshots/Sprint1_completed2)
+   - ![Sprint1_completed1](evidence/JIRA_screenshots/sprint1_completed1.png)
+   - ![Sprint1_completed2](evidence/JIRA_screenshots/sprint1_completed2.png)
 
 3. **summary view**
    - ![summary1](evidence/JIRA_screenshots/summary1.png)
